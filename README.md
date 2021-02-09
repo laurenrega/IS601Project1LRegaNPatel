@@ -19,11 +19,11 @@
 - Explanation of [Git for productivity](/Git.md)
 - Explanation of [Automated-Testing for productivity](/Automated-Testing.md)
 - Definition and Examples of these Git Commands and Terminology:
-  -[Repository](/Repository.md)
-  -[Fork](/Fork.md)
-  -[Commit](/Commit.md)
-  -[Checkout](/Checkout.md)
-  -[Pull](/Pull.md)
-  -[Status](/Status.md)
+  - [Repository](/Repository.md)
+  - [Fork](/Fork.md)
+  - [Commit](/Commit.md)
+  - [Checkout](/Checkout.md)
+  - [Pull](/Pull.md)
+  - [Status](/Status.md)
 
 ## Sources
