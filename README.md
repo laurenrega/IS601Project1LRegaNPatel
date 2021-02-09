@@ -16,7 +16,7 @@
   
 
 ## Nirav's Tasks
-- Explanation of [Git for productivity](/Git.md)
+- Explanation of [Git for productivity](/Git-Usage.md)
 - Explanation of [Automated-Testing for productivity](/Automated-Testing.md)
 - Definition and Examples of these Git Commands and Terminology:
   - [Repository](/Repository.md)
