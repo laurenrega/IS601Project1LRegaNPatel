@@ -1,5 +1,5 @@
-#Continuous Integration
-##What is Continuous Integration and how does it increase the productivity/ competitiveness of a company?
+# Continuous Integration
+## What is Continuous Integration and how does it increase the productivity/ competitiveness of a company?
 
 Continuous integration is a process where developers consistently upload/ commit their changes to a version control system (VCS). These changes are automatically built and tested for each commit. Prior to continuous integration, teams would not combine what each individual was working on nearly as often. This created a substantial number of merge conflicts-- one team member could have removed a section that another added to, and the inconsistency could be difficult to find and fix. With continuous integration, developers are able to be much more productive. Each team member is working off of the latest version, so conflicts are unlikely. Where conflicts do arise, they are quite easy to find and resolve, as the conflict must have been something that the programmer was working on that day. This allows programmers to spend less time finding and reconciling conflicts, and more productive time completing their tasks. Automatic building and testing is another benefit of continuous integration. The team can stay ahead of the testing process and is immediately aware when something fails. This awareness reduces cost allocated to bug fixes. Continuous integration aides a team/ company in staying organized and proactive, and is a much more productive way of developing a project than the alternative. 
 
