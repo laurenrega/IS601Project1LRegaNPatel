@@ -1,0 +1,9 @@
+# Docker
+## What is Docker and how does it improve the productivity/ competitiveness of a company?
+
+Docker is a containerized software platform as a service. It is a one-stop-shop that provides users the ability to develop applications quickly and efficiently. Docker is a resource used by industry professionals  that can improve the productivity of any company that develops or manages software. Docker's containerization model ensures that the software can access everything necessary to run, such as code, libraries, and system processes. This allows software to be seamlessly moved and accessed, which ensures that companies do not face the "it works on my machine but not on yours" dilemma. The ease of access improves reliability and reduces time spent resolving issues. This allows companies to allocate their time more efficiently. The ease of access also promotes collaboration within a company which can result in better software. Further, Docker makes it easier to move projects from development to production. A company that uses Docker can likely put their projects into production more quickly than a competitor that does not.  Also, the Docker containers enhance server utilization which results in reduced costs. Docker is an extremely useful tool that allows companies to produce coherent and consistent software in in a productive manner. 
+
+**Some helpful links:**
+* [Docker Explanation Video by Simple Engineer](https://www.bing.com/videos/search?q=what+is+docker&ru=%2fvideos%2fsearch%3fq%3dwhat%2bis%2bdocker%26qpvt%3dwhat%2bis%2bdocker%26FORM%3dVDRE&qpvt=what+is+docker&view=detail&mid=2832CF1EB1A7B2D32F632832CF1EB1A7B2D32F63&rvsmid=19779B57BB78F4E3B97419779B57BB78F4E3B974&FORM=VDQVAP)
+* [What is Docker- From AWS](https://aws.amazon.com/docker/)
+* [Why Docker?- From Docker](https://www.docker.com/why-docker)
