@@ -5,19 +5,32 @@
 
 ## Example:
 - Merging is super simple in GitHub, once I have completed my feature, I will compare and create pull request
-- picture
+
+![Merge1](/Merge1.png)
+
 - I will then ensure that the correct branches are selected, and that the merge is occuring in the direction that I want. (Feature 1 merging -> to master). If there are no conflicts, Github will let me know that I am able to merge
-- picture
+
+![Merge2](/Merge2.png)
+
 - Next I will create pull request
-- picture
+
+![Merge3](/Merge3.png)
+
 - The user that I am collaborating with will be notified that I would like to merge the commits from Feature 1 to the master
-- picture
+
+![Merge4](/Merge4.png)
+
 - The collaborator will review the changes and if all is well, they will select merge pull request
-- picture
+
+![Merge5](/Merge5.png)
+
 - •	They will be prompted again to confirm merge
-- picture
+
+![Merge6](/Merge6.png)
+
 - Then the merge is complete! Review the master branch to view the changes!
-- picture
+
+![Merge7](/Merge7.png)
 
 **Helpful Information:**
 - [Git Merge and Rebase Intro](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
