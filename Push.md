@@ -13,6 +13,6 @@
 
 ![Push2](/Push2.png)
   
-**Helpful Information:"
+**Helpful Information:**
 - [Git Push](https://www.atlassian.com/git/tutorials/syncing/git-push)
 
