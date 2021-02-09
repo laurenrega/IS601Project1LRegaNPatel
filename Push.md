@@ -6,9 +6,12 @@
 ## Example:
 - I have created a new Feature, "Feature3" locally. I want to push this feature to the remote repository. 	
 - I simply type git push <remote branch> <my local branch> or "git push origin Feature 3"
- - picture
+ 
+ ![Push1](/Push1.png)
+ 
 -	When I check the remote repository, my new feature is there  for collaborators to see!
-- picture
+
+![Push2](/Push2.png)
   
 **Helpful Information:"
 - [Git Push](https://www.atlassian.com/git/tutorials/syncing/git-push)
