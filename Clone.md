@@ -4,12 +4,14 @@
 
 ## Example:
 - If you want to clone a git repository, begin at the remote repository, likely on GitHub. Select Code, and copy the link provided.
-- picture
+
+![Clone1](/Clone1.png)
+
 - You then will clone the repository onto your device using your preferred method.
 - Using the command line, you will navigate to your desired destination using the cd command
 - You will then simply type "git clone" and paste the source link. 
 - Press enter and the cloning process will run!
-- picture
+![Clone2](/Clone2.png)
 
 **Some useful links:**
 - [What is Git Clone?](https://www.toolsqa.com/git/git-clone/)
