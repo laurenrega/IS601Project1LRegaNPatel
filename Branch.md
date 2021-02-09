@@ -5,9 +5,17 @@
 
 ## Example:
 - Creating a new branch is quite simple in GitHub. If I were collaborating on a repository and wanted to add a new feature, I would simply open the repository, select the branch dropdown, and name my branch in the section that says "Find or create a branch…"
-- picture
-- I would then select "Create Branch: (branch name) from 'master'
-- picture
+
+![Branch1](/Branch1.png)
+
+- I would then select "Create Branch: (*branch name*) from 'master'
+
+![Branch2](/Branch2.png)
+
+- I would make my changes and then commit.
+
+![Branch3](/Branch3.png)
+
 - Once committed, I would continue to work on my branch, and merge it to the master when ready!
 
 **Helpful Information:**
